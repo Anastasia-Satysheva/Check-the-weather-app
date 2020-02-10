@@ -1,8 +1,8 @@
 ## Welcome to Check-the-weather-app Website!
-A simple web-app that allows you to search for a city and get the current weather and 5 day forecast. Check it out here: https://anastasia-satysheva.github.io/weather-dashboard
+A simple web-app that allows you to search for a city and get the current weather and 5 day forecast. Check it out here: https://anastasia-satysheva.github.io/Check-the-weather-app/
 
 ### Features
-It's a simple calendar application that allows the user to save events for each hour of the day. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+This basic weather application will tell you your current weather and the 5 day forecast based on the city you input.
 
 ### Screenshots
 
